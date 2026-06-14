@@ -59,7 +59,7 @@ AI-based charging prediction.
 Multi-device charging support.
 Cloud data analytics.
 Battery health reporting dashboard.
-Smart scheduling and charging optimization. 
+Smart scheduling and charging optimization 
 
 Conclusion
 VoltX is an innovative IoT-based charging management system that automatically controls smartphone charging to improve battery health and reduce energy consumption. By combining ESP32, relay control, and a mobile application, the system provides a smart, efficient, and user-friendly solution for modern battery management. 
